@@ -2,7 +2,8 @@
 
 
 ## 关于这里
-嗯。又一个博客。
+嗯。又一个博客。  
+WIKI：https://github.com/ixepoch/ixepoch.github.io/wiki
 
 
 ## 读书笔记
