@@ -3,11 +3,11 @@
 
 ## 关于这里
 
-|About|Description |
+|标题|描述 |
 |---|---|
-|Here| 嗯。又一个博客。宇宙的终点，Excel表格[doge] |
-|Me|https://github.com/ixepoch|
-
+|关于这里| 嗯。又一个博客。宇宙的终点，Excel表格[doge] |
+|关于我|https://github.com/ixepoch|
+|留言板|https://github.com/ixepoch/ixepoch.github.io/issues|
 
 ## 读书笔记
 |标题|地址 |
