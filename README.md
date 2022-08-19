@@ -19,4 +19,7 @@
 
 ## 数据科学
 
-## 日常
+## 日常  
+|标题|地址 |
+|---|---|
+|测试| https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link |
