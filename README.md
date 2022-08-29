@@ -21,5 +21,5 @@
 ## 数据科学
 - 测试 https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link 
 
-## 日常  
+## 其他  
 - 测试 https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link 
