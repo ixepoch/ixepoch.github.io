@@ -22,4 +22,4 @@
 - 测试 https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link 
 
 ## 日常  
-- 2022/08/27 《买了个空气炸锅》 https://sway.office.com/pt9dvs1oWdR3noio?ref=Link 
+- 测试 https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link 
