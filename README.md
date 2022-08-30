@@ -4,7 +4,7 @@
 ## 概述
 
 - 关于我 https://github.com/ixepoch
-- 留言板 https://github.com/ixepoch/ixepoch.github.io/issues 
+- 留言板 https://github.com/ixepoch/ixepoch.github.io/discussions
 
 ## 读书笔记
 - 测试 https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link 
