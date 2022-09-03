@@ -1,4 +1,4 @@
-# IXEpoch的极简博客
+# IXEpoch的博客
 
 <details>
 <summary>概述</summary>
