@@ -47,6 +47,6 @@
   - 测试 https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link 
 
 - leetcode刷题笔记：
-  - 101 对称二叉树 https://sway.office.com/lAOB4d18rheovL3h?ref=Link&loc=mysways
+  - 101 对称二叉树 https://sway.office.com/lAOB4d18rheovL3h?ref=Link
 
 </details>
