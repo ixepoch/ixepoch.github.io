@@ -14,9 +14,9 @@
 
 <details>
 <summary>计算机科学 & 技术</summary>
-  
+
 ---
-  
+
 - 操作系统
 
 - 数据库
@@ -25,9 +25,9 @@
 
 - 分布式系统
   - [分布式系统概述](https://www.yuque.com/docs/share/fa32f028-b671-4b5e-bce3-337495fe4d74)
-  
+
 --- 
-  
+
 </details>
 
 <details>
@@ -59,19 +59,20 @@
 <details>
 <summary>大数据 & 数据科学</summary>
 
-  ---
-  
+---
+
 - 统计学相关  
 
 - 大数据
 
-- 浅层机器学习
+- 机器学习
 
 - 深度学习
 
 </details>
 
 ---
+
 <details>
 <summary>读书笔记</summary>
 
@@ -79,6 +80,8 @@
 
 <details>
 <summary>论文略读</summary>
+
+---
 
 - map reduce：//todo 
 
