@@ -17,20 +17,18 @@
 
 - 操作系统
 
-  - [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
-
 - 数据库
 
 - 网络
 
 - 分布式系统
+  - [分布式系统概述](https://www.yuque.com/docs/share/fa32f028-b671-4b5e-bce3-337495fe4d74)
   
 </details>
 
 <details>
 <summary>系统设计 & 软件工程</summary>
 
-- [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
 
 </details>
 
@@ -47,8 +45,6 @@
 
 - 高级算法
 
-  - [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
-
 </details>
 
 
@@ -56,11 +52,7 @@
 <details>
 <summary>大数据 & 数据科学</summary>
 
-> 博主并不是专业做数据科学的，所以这里的内容大部分来自于博主自学，各类知识可能不够系统，也可能有些不准确，如果发现问题或有建议，还请留言或联系我，感激不尽。
-
 - 统计学相关  
-
-  - [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
 
 - 大数据
 
@@ -73,8 +65,6 @@
 ---
 <details>
 <summary>读书笔记</summary>
-
-- [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
 
 </details>
 
@@ -90,10 +80,6 @@
 ---
 <details>
 <summary>其他</summary>
-
-- 日常：
-
-  - [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
 
 - leetcode刷题笔记：
 
