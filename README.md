@@ -32,7 +32,14 @@
 
 > 博主并不是专业做数据科学的，所以这里的内容大部分来自于博主自学，各类知识可能不够系统，也可能有些不准确，如果发现问题或有建议，还请留言或联系我，感激不尽。
 
-- [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
+- 统计学相关
+  - [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
+
+- 大数据
+
+- 浅层机器学习
+
+- 深度学习
 
 </details>
 
