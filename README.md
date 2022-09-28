@@ -4,6 +4,10 @@
 - [留言板](https://github.com/ixepoch/ixepoch.github.io/discussions)
 
 ---
+
+- 技术相关
+- 技术无关
+---
 <details>
 <summary>计算机科学 & 技术</summary>
 
@@ -79,7 +83,7 @@
 
 </details>
 
-
+---
 <details>
 <summary>其他</summary>
 
