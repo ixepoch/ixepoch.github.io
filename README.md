@@ -62,6 +62,15 @@
 </details>
 
 <details>
+<summary>论文略读</summary>
+  
+- map reduce：//todo
+- gfs：//todo
+
+</details>
+
+
+<details>
 <summary>其他</summary>
 
 - 日常：
