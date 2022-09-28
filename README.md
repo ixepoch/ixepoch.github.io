@@ -14,7 +14,9 @@
 
 <details>
 <summary>计算机科学 & 技术</summary>
-
+  
+---
+  
 - 操作系统
 
 - 数据库
@@ -23,6 +25,8 @@
 
 - 分布式系统
   - [分布式系统概述](https://www.yuque.com/docs/share/fa32f028-b671-4b5e-bce3-337495fe4d74)
+  
+--- 
   
 </details>
 
@@ -35,6 +39,8 @@
 <details>
 <summary>数据结构 & 算法</summary>
 
+---
+
 - 基础数据结构
 
 - 高级数据结构
@@ -45,13 +51,16 @@
 
 - 高级算法
 
-</details>
+---
 
+</details>
 
 
 <details>
 <summary>大数据 & 数据科学</summary>
 
+  ---
+  
 - 统计学相关  
 
 - 大数据
