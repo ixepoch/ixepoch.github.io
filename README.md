@@ -6,9 +6,14 @@
 ---
 <details>
 <summary>计算机科学 & 技术</summary>
+  
+- 操作系统
+  - [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
 
-- [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
-
+- 数据库
+- 网络
+- 分布式系统
+  
 </details>
 
 <details>
@@ -21,7 +26,12 @@
 <details>
 <summary>数据结构 & 算法</summary>
 
-- [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
+- 基础数据结构
+- 高级数据结构
+- 算法基础
+- 基础算法
+- 高级算法
+  - [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
 
 </details>
 
