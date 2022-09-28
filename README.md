@@ -4,10 +4,14 @@
 - [留言板](https://github.com/ixepoch/ixepoch.github.io/discussions)
 
 ---
+## 博文
 
 - 技术相关
 - 技术无关
+
 ---
+## 笔记
+
 <details>
 <summary>计算机科学 & 技术</summary>
 
