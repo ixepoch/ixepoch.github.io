@@ -6,7 +6,7 @@
 ---
 <details>
 <summary>计算机科学 & 技术</summary>
-  
+
 - 操作系统
 
   - [测试](https://sway.office.com/A1ALkTZRNnImiq6w?ref=Link)
@@ -72,7 +72,7 @@
 
 <details>
 <summary>论文略读</summary>
-  
+ 
 - map reduce：//todo 
 
 - gfs：//todo
