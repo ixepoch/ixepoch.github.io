@@ -12,6 +12,27 @@
 ---
 ## 笔记
 
+### 中间件
+<details>
+<summary>存储</summary>
+
+---
+
+--- 
+
+</details>
+
+<details>
+<summary>消息队列</summary>
+
+---
+
+--- 
+
+</details>
+
+### 基础理论
+
 <details>
 <summary>计算机科学 & 技术</summary>
 
