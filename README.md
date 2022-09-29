@@ -24,7 +24,7 @@
 - 网络
 
 - 分布式系统
-  - [分布式系统概述](https://www.yuque.com/docs/share/fa32f028-b671-4b5e-bce3-337495fe4d74)
+  - [分布式系统概述](https://ugitzqcyvp.feishu.cn/docx/VlKWdtkEVo1Hf6x2paocyOjbntd)
 
 --- 
 
