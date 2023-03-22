@@ -1,4 +1,7 @@
-# IXEpoch的博客
+# 博客
+
+
+> 决定近期减少社交网络的使用。
 
 - [关于我](https://github.com/ixepoch)  
 - [留言板](https://github.com/ixepoch/ixepoch.github.io/discussions)
@@ -27,9 +30,11 @@
 
 ---
 
+</details>
+
 --- 
 
-</details>
+
 
 ### 基础理论
 
@@ -117,9 +122,10 @@
 <details>
 <summary>其他</summary>
 
+---
+
 - leetcode刷题笔记：
 
-  - [101 对称二叉树](https://sway.office.com/lAOB4d18rheovL3h?ref=Link)
 
 </details>
 
